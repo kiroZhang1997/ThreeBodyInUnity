@@ -46,7 +46,10 @@ public class EarthCalendar : MonoBehaviour
                 count++;
             }
 
-            _centerStar = star;
+            if (count == 1)
+            {
+                _centerStar = star;
+            }
         }
 
 
@@ -70,7 +73,12 @@ public class EarthCalendar : MonoBehaviour
                 break;
         }
         
+        EpochChange();
+        
+    }
 
+    private void EpochChange()
+    {
         if (currentEpoch != _lastEpoch)
         {
             if (currentEpoch == Epoch.ChaoticEpoch)
