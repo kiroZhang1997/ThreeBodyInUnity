@@ -1,4 +1,4 @@
-# Three Body In Unity
+# Three Body In Unity 三体模拟
  在Unity中视觉化模拟三体运动；向刘慈欣致敬  
  Visual simulation of three-body motion and Salute to Liu Cixin  
  
