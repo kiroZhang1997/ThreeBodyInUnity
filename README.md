@@ -19,7 +19,6 @@
 ![251676008990_ pic_hd](https://user-images.githubusercontent.com/18319784/218148021-c4e6b770-88a7-44a1-a9b8-9b76e7067508.jpg)
 ![291676008990_ pic](https://user-images.githubusercontent.com/18319784/218148096-fb292577-3ea8-4fa6-9e76-6a556b5c95af.jpg)
 ![261676008990_ pic_hd](https://user-images.githubusercontent.com/18319784/218148042-78d11662-59e6-49bb-aac8-2ca12d6cfe2f.jpg)
-![271676008990_ pic](https://user-images.githubusercontent.com/18319784/218148090-79d36d56-1754-440d-a362-41934f290e00.jpg)  
 
 ## 使用说明 Instructions for use  
 
