@@ -9,8 +9,8 @@
  本工程使用了URP渲染，因此你需要在工程中配置URP  
  URP rendering is used in this project, so you need to configure URP in the project  
  
- 本工程使用的美术资源来自UnityAssetStore免费项目Planets of the Solar System 3D  
- The art resources used in this project come from the UnityAssetStore free project  
+ 本工程使用的美术资源来自UnityAssetStore免费项目 Planets of the Solar System 3D  
+ The art resources used in this project come from the UnityAssetStore free project Planets of the Solar System 3D  
  
  https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219  
  
